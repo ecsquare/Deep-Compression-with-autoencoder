@@ -17,3 +17,4 @@ Now we will move to our model "Autoencoder"
 We build this model with respect to hyperparameter choice of this implementation: <br>
 https://blog.keras.io/building-autoencoders-in-keras.html <br> 
 But first let's discover what is the "autoencoder" <br>
+![aut](https://user-images.githubusercontent.com/35869627/71976742-5a5e7d80-3217-11ea-97a6-e28c90c21315.jpeg)
